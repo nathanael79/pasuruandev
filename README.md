@@ -3,7 +3,7 @@ Repositori ini didedikasikan untuk keberlangsungan komunitas PasuruanDev. Jadi, 
 
 # [Cara Berkontribusi]
 
-Pertama-tama kami ucapkan terimakasih sebesar-besarnya untuk teman-teman yang sudah mau berkontribusi di repo kami, semoga setiap ilmu yang teman-teman bagikan dapat membantu orang-orang dalam permasalahan yang mereka hadapi.
+Pertama-tama kami ucapkan terimakasih sebesar-besarnya untuk teman-teman yang sudah mau berkontribusi di repo kami, semoga setiap ilmu yang teman-teman bagikan dapat membantu orang-orang dalam permasalahan yang mereka hadapi. try
 
 # [Langkah - langkah Berkontribusi]
 1. Masuk kedalam repositori resmi pasuruan dev di https://github.com/pasuruandev lalu pilih pada repositori mana teman-teman akan menambahkan kontribusi. 
